@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Eren
+# 👋
 ### *Focused on fundamentals*
 
 </div>
