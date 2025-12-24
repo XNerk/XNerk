@@ -62,7 +62,7 @@
 </a>
 
 
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" aria-label="Discord">
+  <a href="https://discordapp.com/users/XNerk#4717" aria-label="Discord">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/>
   </a>
 </div>
