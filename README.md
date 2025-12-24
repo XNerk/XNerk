@@ -27,6 +27,11 @@
 ### 📚 Learning
 <p>
 <img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="30">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
+
+
+
+
  
   
 </p>
@@ -43,13 +48,15 @@
 
 ### 🌐 Connect with Me
 <p>
-  <a href="gtnesh.tg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
+
+  
   <a href="https://discord.com/users/XNerk#4717">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
   </a>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gtnesh.tg@gmail.com)
+
+
 </p>
 
 ---
