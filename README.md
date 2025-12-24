@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Tinesh👋
-### *Do you know how everything you use works?*
+### *Be Curious*
 
 </div>
 
