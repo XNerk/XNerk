@@ -47,18 +47,25 @@
 ---
 
 ### 🌐 Connect with Me
-<p>
 
-  
-  <a href="https://discord.com/users/XNerk#4717">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+<div style="display:flex; gap:12px; align-items:center;">
+  <a href="https://github.com/XNerk" aria-label="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
   </a>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gtnesh.tg@gmail.com)
+  <a href="mailto:gtnesh.tg@gmail.com" aria-label="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/tinesh-g-xnerk" aria-label="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
 
-</p>
-
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" aria-label="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/>
+  </a>
+</div>
 ---
 
 > *Clarity over complexity.*
