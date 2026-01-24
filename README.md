@@ -7,51 +7,29 @@
 
 ---
 
-### 🛠️ Skills
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="50" />   
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> 
-
-  <img src="assets/rbxlogo.png" alt="Roblox Studio" width="40">
-  <img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="40">
-  <img src="assets/luaurbx.jpeg" alt="RbxLua" width="40">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32" /> 
-  
+### Profile Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=XNerk&label=PROFILE+VIEWS&style=for-the-badge" alt="XNerk" height=200 />
+  <a href=" ">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
 </p>
 
----
-
-### 📚 Learning
-<p>
-<img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="30">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
-
+<div align="center">
   
-</p>
+  <!-- Top: General Stats and Language Stats side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XNerk&show_icons=true&theme=tokyonight" alt="Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNerk&layout=compact&theme=radical" alt="Languages" height="192px" />
+  
+  <br/><br/>
+  
+  <!-- Bottom: Streak Stats -->
+ ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=XNerk&theme=react-dark)
 
----
-
-### 🎓 Education 
-<p>
 
 
 
-<div class="container">
-    <img src="assets/utm-logo12.png" alt="UTM" width="300">
-    <div class="text-content">
-        <h4><b>Bachelor of Computer Networks and Security (4 years)</b></h4>
-        <p>1st Year Student</p>
-    </div>
 </div>
-
-  
-
-
-  
-</p>
 
 ---
 
@@ -60,6 +38,61 @@
 - Interested in operating systems and kernel engineering 
 - Interested in how malwares are written. 
 - Science, Maths, Cybersec, Astronomy, Neuroscience, Capture The Flag(CTF) challenges
+
+---
+
+### 🎓 Education 
+<p>
+<div class="container">
+    <img src="assets/utm-logo12.png" alt="UTM" width="300">
+    <div class="text-content">
+        <h4><b>Bachelor of Computer Networks and Security (4 years)</b></h4>
+        <p>1st Year Student</p>
+    </div>
+</div>
+</p>
+
+---
+### 🛠️ Skills
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><strong>C++</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+    <td><strong>Python</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+    <td><strong>Kali Linux</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/rbxlogo.png" width="40"/></td>
+    <td><strong>Roblox Studio</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/Wireshark_icon_new.png" width="40"/></td>
+    <td><strong>Wireshark</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/luaurbx.jpeg" width="40"/></td>
+    <td><strong>Luau (Roblox)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/></td>
+    <td><strong>VS Code</strong></td>
+  </tr>
+</table>
+
+---
+
+### 📚 Learning
+<p>
+<img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="30">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
+
+</p>
 
 ---
 
@@ -83,6 +116,6 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/>
   </a>
 </div>
----
 
-> *Clarity over complexity.*
+<br>
+ 
