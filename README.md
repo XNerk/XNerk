@@ -10,7 +10,7 @@
 ### Profile Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=XNerk&label=PROFILE+VIEWS&style=for-the-badge" alt="XNerk" height=200 />
-  <a href=" ">
+  <a href=" https://xnerk.github.io/Tinesh/ ">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </p>
