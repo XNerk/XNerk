@@ -29,10 +29,15 @@
 <img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="30">
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
 
+  
+</p>
 
+---
 
+### 🎓 Education 
+<p>
+<img src="assets/utm-logo12.png" alt="UTM" width="30"> 
 
- 
   
 </p>
 
