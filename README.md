@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Tinesh👋
-### *Be Curious*
+### *Cybersecurity Enthusiast* <br>   *UTM Computer Networks and Security Student*
 
 </div>
 
@@ -12,11 +12,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="50" />   
 
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> 
 
-  <img src="assets/rbxlogo.png" alt="Roblox Studio" width="30">
-  <img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="30">
-  <img src="assets/luaurbx.jpeg" alt="RbxLua" width="30">
+  <img src="assets/rbxlogo.png" alt="Roblox Studio" width="40">
+  <img src="assets/Wireshark_icon_new.png" alt="Wireshark" width="40">
+  <img src="assets/luaurbx.jpeg" alt="RbxLua" width="40">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32" /> 
   
@@ -36,7 +36,19 @@
 
 ### 🎓 Education 
 <p>
-<img src="assets/utm-logo12.png" alt="UTM" width="30"> 
+
+
+
+<div class="container">
+    <img src="assets/utm-logo12.png" alt="UTM" width="300">
+    <div class="text-content">
+        <h4><b>Bachelor of Computer Networks and Security (4 years)</b></h4>
+        <p>1st Year Student</p>
+    </div>
+</div>
+
+  
+
 
   
 </p>
@@ -45,9 +57,9 @@
 
 ### 🧠 Interests
 - Understanding systems from first principles  
-- Programming logic & performance  
-- Science-driven problem solving
-- Science, Maths, Cybersec, Astronomy, Neuroscience
+- Interested in operating systems and kernel engineering 
+- Interested in how malwares are written. 
+- Science, Maths, Cybersec, Astronomy, Neuroscience, Capture The Flag(CTF) challenges
 
 ---
 
