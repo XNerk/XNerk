@@ -44,6 +44,15 @@
 
 ---
 
+
+### 🏆 Awards 🏆
+- National MISI JELAJAH DIGITAL 2021 WINNER 1ST PLACE, ROBLOX PROGRAMMING AND DESIGNING & 5TH PLACE in Martian Base design - https://www.bernama.com/en/news.php?id=2073388
+- National MSU Infohunt Challenge 2023 WINNING TEAM, 2nd place  - https://www.msu.edu.my/MSUNews/Sept2023-learning-experiences-scholarship-competition
+- National UTM World Nuclear Day Quiz 2024 2nd place winner - https://www.linkedin.com/posts/sheriffah-noor-khamseah-6276b216a_nuclear-nuclearengineering-nuclearquiz-ugcPost-7271175544589688832-6VaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9iOawBl1Nsi_oca0h5qlpcQ8U2tTBoJYc
+- CyberX UTM picoCTF most challenges solved competition WINNER 2025
+- National XChess Academy Deepavali Chess tournament 2022, U16, 7th place
+---
+
 ### 🎓 Education 
 <p>
 <div class="container">
